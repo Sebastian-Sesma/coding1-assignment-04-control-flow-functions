@@ -7,8 +7,8 @@ for number in [1, 2, 3]:
 
 # 1. What is printed, in order? Explain how the loop and the if condition
 # decide which numbers are passed to add_one.
-# Your answer:
+# Your answer:if the number is greater than 1 then it will return that number plus 1
 
 # 2. What does add_one(2) return? Explain the difference between return
 # inside the function and print in the loop.
-# Your answer:
+# Your answer: It will return 3 because at first in the function you ask tu sum 1 to the number you put afterwards as an input
